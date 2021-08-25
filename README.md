@@ -36,5 +36,5 @@ Vim para São Paulo há cinco anos, era para eu ficar 15 dias, mas já vim mal-i
    
 </div>
 
-<p align="center"> Numero de curiosos </p>
+<p align="center"> Número de curiosos </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
