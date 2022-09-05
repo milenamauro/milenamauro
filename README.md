@@ -6,7 +6,7 @@ Vim para São Paulo há cinco anos, era para eu ficar 15 dias, mas já vim mal-i
  <br>
   
 - 📍  São Paulo - SP
-- 💻 Dev Fullstack Junior
+- 💻 Dev Fullstack Junior e Arquiteta de Software.
 - 📚 Ex da Aluna da Generation Brasil
 - 💼 Full Stack Development Junior na Capgemini Brasil
  
