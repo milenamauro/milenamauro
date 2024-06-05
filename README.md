@@ -1,14 +1,15 @@
-# Olá! Me chamo Milena Mauro.
+# Olá! 
 
-####  Sou Milena Mauro, uma mulher do pantanal, alguns me chamam de Juma (se você sabe quem é, já entregou a idade).
-Vim para São Paulo há cinco anos, era para eu ficar 15 dias, mas já vim mal-intencionada, trouxe minhas melhores blusinhas e estou até agora. Também sou desenvolvedora Java júnior pela Generation, comunicóloga e mãe do Gil (Um cachorro da raça caramelo). 
+####  Desbravadora Digital apaixonada por comunicação e tecnologia.
+Sou Milena Mauro, a "Juma" do Pantanal.
+Vim para São Paulo há oito anos, era para eu ficar 15 dias, mas já vim mal-intencionada, trouxe minhas melhores blusinhas e estou até agora. Também sou Consultora Soluções Customizadas I Analista de software I Comunicóloga e Mãe do Gil (Um cachorro da raça caramelo). 
   
  <br>
   
 - 📍  São Paulo - SP
-- 💻 Dev Fullstack Junior e Arquiteta de Software.
+- 💻 Consultora Soluções Customizadas I Analista de software
 - 📚 Ex da Aluna da Generation Brasil
-- 💼 Full Stack Development Junior na Capgemini Brasil
+- 💼 Capgemini Brasil
  
   
 <br>
